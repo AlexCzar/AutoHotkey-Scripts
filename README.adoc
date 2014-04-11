@@ -1,0 +1,3 @@
+== Czar's AutoHotkey Scripts
+
+This repository contains scripts I use, wrote or adapted for http://www.autohotkey.com[AutoHotkey].
